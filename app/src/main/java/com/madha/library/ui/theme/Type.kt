@@ -1,4 +1,4 @@
-package com.madha.autoresizetext.ui.theme
+package com.madha.library.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

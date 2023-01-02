@@ -1,4 +1,4 @@
-package com.madha.autoresizetext.ui.theme
+package com.madha.library.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
