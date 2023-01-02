@@ -53,7 +53,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.madha.library'
+                groupId = 'com.github.ramadhansejati'
                 artifactId = 'auto-resize-text'
                 version = '1.0.0'
             }
